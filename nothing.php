@@ -7,7 +7,7 @@
 <style type="text/css">
 	
 	body {
-		background-color: #B8A270;
+		background-colccccccsor: #B8A270;
 	}
 
 .inputs_fields {
